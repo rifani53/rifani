@@ -1,4 +1,5 @@
 <?php
-    echo "team the best"
+    echo "team the best";
+    echo "makanan dulu";
 ?>
 
